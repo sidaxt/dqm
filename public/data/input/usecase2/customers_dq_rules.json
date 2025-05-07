@@ -1,0 +1,26 @@
+{
+    "dataset": "Customers",
+    "dq_rules": [
+      {
+        "rule_id": "R001",
+        "rule_description": "CustomerID must be unique."
+      },
+      {
+        "rule_id": "R002",
+        "rule_description": "Email address must contain '@' symbol."
+      },
+      {
+        "rule_id": "R003",
+        "rule_description": "PhoneNumber should not be empty."
+      },
+      {
+        "rule_id": "R004",
+        "rule_description": "Country field must be populated for all records."
+      },
+      {
+        "rule_id": "R005",
+        "rule_description": "CustomerName should not be empty."
+      }
+    ]
+  }
+  

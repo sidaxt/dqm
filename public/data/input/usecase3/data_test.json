@@ -1,0 +1,359 @@
+[{"CustomerID":1,"FirstName":"John","LastName":"Doe","Email":"john.doe@example.com","PhoneNumber":"555-1234","DateOfBirth":"5/15/1985","RegistrationDate":44105,"Country":"USA"},
+{"CustomerID":2,"FirstName":"Jane","LastName":"Smith","Email":"jane.smith@example.com","PhoneNumber":"555-5678","DateOfBirth":"8/22/1990","RegistrationDate":"3/18/2021","Country":"Canada"},
+{"CustomerID":3,"FirstName":"Alice","LastName":"Johnson","Email":"alice.j@example.com","PhoneNumber":"555-8765","DateOfBirth":28622,"RegistrationDate":"11/30/2019","Country":"UK"},
+{"CustomerID":4,"FirstName":"Bob","LastName":"Lee","Email":"bob.lee@example.com","PhoneNumber":"555-4321","DateOfBirth":"7/19/2000","RegistrationDate":"7/25/2022","Country":"Australia"},
+{"CustomerID":5,"FirstName":"Charlie","LastName":"Brown","Email":"charlie.b@example.com","PhoneNumber":"555-0000","DateOfBirth":30227,"RegistrationDate":"2/14/2023","Country":"USA"},
+    {
+      "Customer ID": "C001",
+      "Customer Name": "John Doe",
+      "Contact Email": "johndoe@gmail.com",
+      "Phone Number": "123-4567",
+      "Country": "USA"
+    },
+    {
+      "Customer ID": "C002",
+      "Customer Name": "Jane Smith",
+      "Contact Email": "janesmith@gmail.com",
+      "Phone Number": "456-7890",
+      "Country": "USA"
+    },
+    {
+      "Customer ID": "C003",
+      "Customer Name": "Mike Adams",
+      "Contact Email": "mikeadams.com",
+      "Phone Number": "234-1234",
+      "Country": "Canada"
+    },
+    {
+      "Customer ID": "C004",
+      "Customer Name": "Sam O'Neil",
+      "Contact Email": "sam.oneil@abc.com",
+      "Phone Number": "555-0123",
+      "Country": "UK"
+    },
+    {
+      "Customer ID": "C005",
+      "Customer Name": "",
+      "Contact Email": "noemail@abc.com",
+      "Phone Number": "789-4561",
+      "Country": "Australia"
+    },
+    {
+      "Customer ID": "C006",
+      "Customer Name": "Alice Brown",
+      "Contact Email": "alice.brown@gmail.com",
+      "Phone Number": "",
+      "Country": "India"
+    },
+    {
+      "Customer ID": "C007",
+      "Customer Name": "Henry Cavill",
+      "Contact Email": "henry.cavill@gmail.",
+      "Phone Number": "456-1111",
+      "Country": "France"
+    },
+    {
+      "Customer ID": "C008",
+      "Customer Name": "John Doe",
+      "Contact Email": "johndoe@gmail.com",
+      "Phone Number": "123-4567",
+      "Country": "USA"
+    },
+    {
+      "Customer ID": "C009",
+      "Customer Name": "Lara Croft",
+      "Contact Email": "lara.croft@abc.com",
+      "Phone Number": "555-7777",
+      "Country": ""
+    },
+    {
+      "Customer ID": "C010",
+      "Customer Name": "Chris Evans",
+      "Contact Email": "chrisevans@@gmail.com",
+      "Phone Number": "678-8888",
+      "Country": "USA"
+    },
+    {
+      "Customer ID": "C011",
+      "Customer Name": "Tony Stark",
+      "Contact Email": "tony.stark@stark.com",
+      "Phone Number": "321-0000",
+      "Country": "USA"
+    },
+    {
+      "Customer ID": "C012",
+      "Customer Name": "Steve Rogers",
+      "Contact Email": "steve.rogers@avengers.com",
+      "Phone Number": "222-3333",
+      "Country": "USA"
+    },
+    {
+      "Customer ID": "C013",
+      "Customer Name": "Natasha Romanoff",
+      "Contact Email": "natasha@spy.org",
+      "Phone Number": "555-5555",
+      "Country": "Russia"
+    },
+    {
+      "Customer ID": "C014",
+      "Customer Name": "Bruce Banner",
+      "Contact Email": "bruce.banner@science.com",
+      "Phone Number": "",
+      "Country": "USA"
+    },
+    {
+      "Customer ID": "C015",
+      "Customer Name": "Peter Parker",
+      "Contact Email": "spidey@web.com",
+      "Phone Number": "555-6666",
+      "Country": "USA"
+    },
+    {
+      "Customer ID": "C016",
+      "Customer Name": "Diana Prince",
+      "Contact Email": "diana.prince@amazon.com",
+      "Phone Number": "123-0000",
+      "Country": "Greece"
+    },
+    {
+      "Customer ID": "C017",
+      "Customer Name": "Barry Allen",
+      "Contact Email": "barry.allen@gmail.com",
+      "Phone Number": "234-2222",
+      "Country": "USA"
+    },
+    {
+      "Customer ID": "C018",
+      "Customer Name": "Clark Kent",
+      "Contact Email": "clark.kent@dailyplanet.com",
+      "Phone Number": "111-9999",
+      "Country": "USA"
+    },
+    {
+      "Customer ID": "C019",
+      "Customer Name": "Lois Lane",
+      "Contact Email": "lois.lane@dailyplanet.com",
+      "Phone Number": "555-3333",
+      "Country": "USA"
+    },
+    {
+      "Customer ID": "C020",
+      "Customer Name": "Arthur Curry",
+      "Contact Email": "aquaman@ocean.com",
+      "Phone Number": "789-1234",
+      "Country": "Atlantis"
+    },
+    {
+      "Customer ID": "C021",
+      "Customer Name": "Bruce Wayne",
+      "Contact Email": "bruce@wayne.com",
+      "Phone Number": "987-6543",
+      "Country": "Gotham"
+    },
+    {
+      "Customer ID": "C022",
+      "Customer Name": "Selina Kyle",
+      "Contact Email": "catwoman@gmail.com",
+      "Phone Number": "",
+      "Country": "Gotham"
+    },
+    {
+      "Customer ID": "C023",
+      "Customer Name": "Eddie Brock",
+      "Contact Email": "eddie.brock@venom.com",
+      "Phone Number": "567-1111",
+      "Country": "USA"
+    },
+    {
+      "Customer ID": "C024",
+      "Customer Name": "Harley Quinn",
+      "Contact Email": "harley@crazy.com",
+      "Phone Number": "555-0001",
+      "Country": "USA"
+    },
+    {
+      "Customer ID": "C025",
+      "Customer Name": "Pam Isley",
+      "Contact Email": "pam@plants.com",
+      "Phone Number": "444-4444",
+      "Country": "USA"
+    },
+    {
+      "Customer ID": "C026",
+      "Customer Name": "Victor Fries",
+      "Contact Email": "ice@freeze.com",
+      "Phone Number": "",
+      "Country": "USA"
+    },
+    {
+      "Customer ID": "C027",
+      "Customer Name": "Oliver Queen",
+      "Contact Email": "green.arrow@hero.com",
+      "Phone Number": "111-2222",
+      "Country": "USA"
+    },
+    {
+      "Customer ID": "C028",
+      "Customer Name": "Felicity Smoak",
+      "Contact Email": "felicity@genius.com",
+      "Phone Number": "333-9999",
+      "Country": "USA"
+    },
+    {
+      "Customer ID": "C029",
+      "Customer Name": "Slade Wilson",
+      "Contact Email": "slade.wilson@terminator.com",
+      "Phone Number": "888-1111",
+      "Country": "USA"
+    },
+    {
+      "Customer ID": "C030",
+      "Customer Name": "Ray Palmer",
+      "Contact Email": "atom@science.com",
+      "Phone Number": "777-3333",
+      "Country": "USA"
+    },
+    {
+      "Customer ID": "C031",
+      "Customer Name": "John Constantine",
+      "Contact Email": "john.constantine@occult.com",
+      "Phone Number": "555-1234",
+      "Country": "UK"
+    },
+    {
+      "Customer ID": "C032",
+      "Customer Name": "Zatanna Zatara",
+      "Contact Email": "zatanna@magic.com",
+      "Phone Number": "555-5678",
+      "Country": "USA"
+    },
+    {
+      "Customer ID": "C033",
+      "Customer Name": "Billy Batson",
+      "Contact Email": "shazam@hero.com",
+      "Phone Number": "444-1234",
+      "Country": "USA"
+    },
+    {
+      "Customer ID": "C034",
+      "Customer Name": "Kara Zor-El",
+      "Contact Email": "kara@krypton.com",
+      "Phone Number": "666-7890",
+      "Country": "USA"
+    },
+    {
+      "Customer ID": "C035",
+      "Customer Name": "Hank Pym",
+      "Contact Email": "hank.pym@quantum.com",
+      "Phone Number": "555-3333",
+      "Country": "USA"
+    },
+    {
+      "Customer ID": "C036",
+      "Customer Name": "Hope Van Dyne",
+      "Contact Email": "hope.van@quantum.com",
+      "Phone Number": "444-8888",
+      "Country": "USA"
+    },
+    {
+      "Customer ID": "C037",
+      "Customer Name": "Janet Van Dyne",
+      "Contact Email": "janet@quantum.com",
+      "Phone Number": "666-9999",
+      "Country": "USA"
+    },
+    {
+      "Customer ID": "C038",
+      "Customer Name": "T'Challa",
+      "Contact Email": "king@wakanda.com",
+      "Phone Number": "222-4444",
+      "Country": "Wakanda"
+    },
+        {
+          "Customer ID": "C039",
+          "Customer Name": "Shuri",
+          "Contact Email": "shuri@wakanda.com",
+          "Phone Number": "222-8888",
+          "Country": "Wakanda"
+        },
+        {
+          "Customer ID": "C040",
+          "Customer Name": "Erik Killmonger",
+          "Contact Email": "erik@revolution.com",
+          "Phone Number": "111-1111",
+          "Country": "USA"
+        },
+        {
+          "Customer ID": "C041",
+          "Customer Name": "Wanda Maximoff",
+          "Contact Email": "scarlet@witch.com",
+          "Phone Number": "555-7777",
+          "Country": "Sokovia"
+        },
+        {
+          "Customer ID": "C042",
+          "Customer Name": "Vision",
+          "Contact Email": "vision@avenger.com",
+          "Phone Number": "555-9999",
+          "Country": "Sokovia"
+        },
+        {
+          "Customer ID": "C043",
+          "Customer Name": "Stephen Strange",
+          "Contact Email": "strange@magic.com",
+          "Phone Number": "444-7777",
+          "Country": "USA"
+        },
+        {
+          "Customer ID": "C044",
+          "Customer Name": "Scott Lang",
+          "Contact Email": "ant@man.com",
+          "Phone Number": "222-3333",
+          "Country": "USA"
+        },
+        {
+          "Customer ID": "C045",
+          "Customer Name": "Nebula",
+          "Contact Email": "nebula@space.com",
+          "Phone Number": "555-0000",
+          "Country": "Titan"
+        },
+        {
+          "Customer ID": "C046",
+          "Customer Name": "Gamora",
+          "Contact Email": "gamora@space.com",
+          "Phone Number": "555-1111",
+          "Country": "Titan"
+        },
+        {
+          "Customer ID": "C047",
+          "Customer Name": "Peter Quill",
+          "Contact Email": "star.lord@space.com",
+          "Phone Number": "111-2222",
+          "Country": "USA"
+        },
+        {
+          "Customer ID": "C048",
+          "Customer Name": "Groot",
+          "Contact Email": "groot@tree.com",
+          "Phone Number": "",
+          "Country": ""
+        },
+        {
+          "Customer ID": "C049",
+          "Customer Name": "Rocket Raccoon",
+          "Contact Email": "rocket@space.com",
+          "Phone Number": "666-4444",
+          "Country": "USA"
+        },
+        {
+          "Customer ID": "C050",
+          "Customer Name": "Anna Kendrick",
+          "Contact Email": "anna.kendrick@xyz.com",
+          "Phone Number": "999-1111",
+          "Country": "Germany"
+        }
+      ]
+      
+
+  

@@ -1,0 +1,65 @@
+{
+  "domain_rules": {
+    "Name": [
+      "Patient names must contain only alphabetic characters and spaces, with no special characters or numbers.",
+      "Names should be properly capitalized (e.g., 'John Doe')."
+    ],
+    "Age": [
+      "Patient age must be a positive integer between 0 and 120.",
+      "Patients under the age of 18 must have a guardian listed."
+    ],
+    "Gender": [
+      "Gender should be one of ['Male', 'Female', 'Other']."
+    ],
+    "Blood Type": [
+      "Blood type must follow valid blood group formats (e.g., A+, A-, B+, B-, O+, O-, AB+, AB-)."
+    ],
+    "Medical Condition": [
+      "Medical condition must be from a predefined list of valid conditions (e.g., 'Diabetes', 'Cancer', 'Obesity')."
+    ],
+    "Date of Admission": [
+      "Date of admission must be a valid date and cannot be in the future."
+    ],
+    "Discharge Date": [
+      "Discharge date, if present, must be after the date of admission."
+    ],
+    "Billing Amount": [
+      "Billing amount must be a positive number."
+    ],
+    "Room Number": [
+      "Room number must be an integer between 1 and 500."
+    ],
+    "Admission Type": [
+      "Admission type must be one of ['Urgent', 'Emergency', 'Elective']."
+    ],
+    "Insurance Provider": [
+      "Insurance provider must be one of the predefined valid providers (e.g., 'Aetna', 'Medicare', 'Blue Cross')."
+    ]
+  },
+  "dq_rules": {
+    "Missing Values": [
+      "No missing values allowed for essential fields like 'Name', 'Age', 'Gender', 'Medical Condition', 'Date of Admission', and 'Billing Amount'."
+    ],
+    "Name": [
+      "Names should not contain leading or trailing spaces."
+    ],
+    "Age": [
+      "Age must not be null and must be a numeric value."
+    ],
+    "Gender Consistency": [
+      "Gender values must be consistent across records and follow the format ('Male', 'Female', 'Other'). No typos or mixed cases."
+    ],
+    "Date Format": [
+      "Dates must follow the 'YYYY-MM-DD' format."
+    ],
+    "Billing Amount": [
+      "Billing amount should be a valid numerical value with no negative amounts."
+    ],
+    "Medication and Test Results": [
+      "If the 'Test Results' are 'Abnormal', a corresponding follow-up medication should be prescribed."
+    ],
+    "Unique Records": [
+      "No duplicate records should exist in the dataset based on 'Name', 'Date of Admission', and 'Hospital'."
+    ]
+  }
+}

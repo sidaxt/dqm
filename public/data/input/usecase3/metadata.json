@@ -1,0 +1,14 @@
+{
+    "dataset_name": "customers",
+    "columns": [
+      {"name": "CustomerID", "type": "integer", "nullable": false, "description": "Unique identifier for each customer"},
+      {"name": "FirstName", "type": "string", "nullable": false, "description": "Customer's first name"},
+      {"name": "LastName", "type": "string", "nullable": false, "description": "Customer's last name"},
+      {"name": "Email", "type": "string", "nullable": false, "description": "Customer's email address"},
+      {"name": "PhoneNumber", "type": "string", "nullable": true, "description": "Customer's phone number"},
+      {"name": "DateOfBirth", "type": "date", "nullable": true, "description": "Customer's date of birth"},
+      {"name": "RegistrationDate", "type": "date", "nullable": false, "description": "Date when the customer registered"},
+      {"name": "Country", "type": "string", "nullable": false, "description": "Customer's country of residence"}
+    ]
+  }
+  

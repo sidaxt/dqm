@@ -1,0 +1,6 @@
+rule_id,rule_description
+R006,"Email address should end with a top-level domain (.com, .org, .net, etc.)."
+R007,Email address should not contain multiple '@' symbols.
+R008,"Country names should be consistent (e.g., 'USA' and 'US' should be standardized)."
+R009,Phone Number should follow a consistent format (XXX-XXXX).
+R010,Customer Name should not be duplicated.

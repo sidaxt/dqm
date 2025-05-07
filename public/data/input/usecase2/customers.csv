@@ -1,0 +1,51 @@
+Customer ID,Customer Name,Contact Email,Phone Number,Country
+C001,John Doe,johndoe@gmail.com,123-4567,USA
+C002,Jane Smith,janesmith@gmail.com,456-7890,US1
+C003,Mike Adams,mikeadams.com,234-1234,Canada
+C004,Sam O'Neil,sam.oneil@abc.com,555-0123,UK
+C005,,noemail@abc.com,789-4561,Australia
+C006,Alice Brown,alice.brown@gmail.com,,India
+C007,Henry Cavill,henry.cavill@gmail.,456-1111,France
+C008,John Doe,johndoe@gmail.com,123-4567,USA
+C009,Lara Croft,lara.croft@abc.com,555-7777,
+C010,Chris Evans,chrisevans@@gmail.com,678-8888,USA
+C011,Tony Stark,tony.stark@stark.com,321-0000,USA
+C012,Steve Rogers,steve.rogers@avengers.com,222-3333,USA
+C013,Natasha Romanoff,natasha@spy.org,555-5555,Russia
+C014,Bruce Banner,bruce.banner@science.com,,USA
+C015,Peter Parker,spidey@web.com,555-6666,USA
+C016,Diana Prince,diana.prince@amazon.com,123-0000,Greece
+C017,Barry Allen,barry.allen@gmail.com,234-2222,USA
+C018,Clark Kent,clark.kent@dailyplanet.com,111-9999,USA
+C019,Lois Lane,lois.lane@dailyplanet.com,555-3333,USA
+C020,Arthur Curry,aquaman@ocean.com,789-1234,Atlantis
+C021,Bruce Wayne,bruce@wayne.com,987-6543,Gotham
+C022,Selina Kyle,catwoman@gmail.com,,Gotham
+C023,Eddie Brock,eddie.brock@venom.com,567-1111,USA
+C024,Harley Quinn,harley@crazy.com,555-0001,USA
+C025,Pam Isley,pam@plants.com,444-4444,USA
+C026,Victor Fries,ice@freeze.com,,USA
+C027,Oliver Queen,green.arrow@hero.com,111-2222,USA
+C028,Felicity Smoak,felicity@genius.com,333-9999,USA
+C029,Slade Wilson,slade.wilson@terminator.com,888-1111,USA
+C030,Ray Palmer,atom@science.com,777-3333,USA
+C031,John Constantine,john.constantine@occult.com,555-1234,UK
+C032,Zatanna Zatara,zatanna@magic.com,555-5678,US
+C033,Billy Batson,shazam@hero.com,444-1234,USA
+C034,Kara Zor-El,kara@krypton.com,666-7890,USA
+C035,Hank Pym,hank.pym@quantum.com,555-3333,USA
+C036,Hope Van Dyne,hope.van@quantum.com,444-8888,USA
+C037,Janet Van Dyne,janet@quantum.com,666-9999,USA
+C038,T'Challa,king@wakanda.com,222-4444,Wakanda
+C039,Shuri,shuri@wakanda.com,222-8888,Wakanda
+C040,Erik Killmonger,erik@revolution.com,111-1111,USA
+C041,Wanda Maximoff,scarlet@witch.com,555-7777,Sokovia
+C042,Vision,vision@avenger.com,555-9999,Sokovia
+C043,Stephen Strange,strange@magic.com,444-7777,USA
+C044,Scott Lang,ant@man.com,222-3333,USA
+C045,Nebula,nebula@space.com,555-0000,Titan
+C046,Gamora,gamora@space.com,555-1111,Titan
+C047,Peter Quill,star.lord@space.com,111-2222,USA
+C048,Groot,groot@tree.com,,
+C049,Rocket Raccoon,rocket@space.com,666-4444,USA
+C050,Anna Kendrick,anna.kendrick@xyz.com,999-1111,Germany
